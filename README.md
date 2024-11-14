@@ -104,19 +104,3 @@ The Azure account used must have at least:
    ```
    Solution: Verify your credentials and internet connection.
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-[Specify your license here]
-
-## Version History
-
-- 0.2: Current version
-  - Added storage metrics
-  - Improved error handling
-  - Added CSV output formatting
-
-- 0.1: Initial release
